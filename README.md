@@ -2,6 +2,12 @@
 
 This project implements a sim-to-real control pipeline for the AINex humanoid robot.
 
+### Simulation Demo
+
+[![AINex robot soccer demo in MuJoCo](assets/demo/ainex-demo.gif)](https://github.com/tjdavis51/ainex-soccer/blob/main/assets/demo/ainex-demo.mov)
+
+AINex soccer simulation in MuJoCo. Click the preview to view or download the full-resolution video.
+
 Features Include:
 
 - MuJoCo simulation tuned for walking/turning/kicking
